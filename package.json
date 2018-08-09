@@ -1,0 +1,26 @@
+{
+  "name": "webservice-mocker",
+  "version": "0.0.1",
+  "description": "Simple configuration based webservice mocker.",
+  "bin": {
+    "webservice-mocker": "./bin/cli.js"
+  },
+  "dependencies": {
+    "chalk": "2.4.1",
+    "figlet": "1.2.0",
+    "minimist": "1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Stephen Cooper",
+    "url": "https://github.com/ste2425"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ste2425/webservice-mocker"
+  }
+}
