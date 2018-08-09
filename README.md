@@ -2,7 +2,7 @@
 Simple configuration based web service mocking.
 
 [<img src="https://api.travis-ci.com/ste2425/webservice-mocker.svg?branch=master">](https://travis-ci.com/ste2425/webservice-mocker)
-<img src="https://david-dm.org/ste2425/webservice-mocker.svg">
+[<img src="https://david-dm.org/ste2425/webservice-mocker.svg">](https://david-dm.org/ste2425/webservice-mocker)
 
 # To use
 Not yet on NPM.
