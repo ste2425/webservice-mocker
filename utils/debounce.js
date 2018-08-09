@@ -4,7 +4,7 @@ module.exports = function (fn, delay) {
     if (typeof fn !== 'function')
         throw new ReferenceError('function expected');
 
-    let t;
+    let t; //eslint-disable-line init-declarations
 
     return (...args) => {
         clearTimeout(t);
