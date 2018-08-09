@@ -1,7 +1,7 @@
 # webservice-mocker
 Simple configuration based web service mocking.
 
-<img src="https://api.travis-ci.com/ste2425/webservice-mocker.svg?branch=master">
+[<img src="https://api.travis-ci.com/ste2425/webservice-mocker.svg?branch=master">](https://travis-ci.com/ste2425/webservice-mocker)
 <img src="https://david-dm.org/ste2425/webservice-mocker.svg">
 
 # To use
