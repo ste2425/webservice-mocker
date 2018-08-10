@@ -12,6 +12,7 @@ Not yet on NPM.
 * Run `npm install`
 * run `npm link`
 * run `webservice-mocker -h` for commands.
+* run `npm run test` for unit tests.
 
 ## To Do
 * unit tests
